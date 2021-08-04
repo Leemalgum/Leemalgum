@@ -21,7 +21,8 @@ https://radial-handball-fa4.notion.site/e5da94fd7240470c98eeef743a704b2c <br>
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
   <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/>
   <img src="https://img.shields.io/badge/Kotlin-0095D5?style=flat-square&logo=Kotlin&logoColor=white"/>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/> <br>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/> 
+  <br>
   
   <img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=flat-square&logo=Amazon AWS&logoColor=white"/>
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=Firebase&logoColor=white"/>
@@ -33,12 +34,11 @@ https://radial-handball-fa4.notion.site/e5da94fd7240470c98eeef743a704b2c <br>
   <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat-square&logo=Visual Studio Code&logoColor=white"/>
   <img src="https://img.shields.io/badge/IntelliJ IDEA-000000?style=flat-square&logo=IntelliJ IDEA&logoColor=white"/>
   <img src="https://img.shields.io/badge/Android Studio-3DDC84?style=flat-square&logo=Android Studio&logoColor=white"/>
+  <br>
+  <br>
   
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Leemalgum)
   
-  
-  
-  
-  
-  
+  ![kmsbio's GitHub stats](https://github-readme-stats.vercel.app/api?username=Leemalgum)
   
 </div>
