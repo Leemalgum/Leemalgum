@@ -3,7 +3,7 @@
 ## 꼴등에서 일등까지, 무한한 발전 가능성을 가진 개발자 이맑음입니다.☺️
 ### Web/App **Backend-Developer**
 AWS EC2와 NCP를 활용한 웹 서버 구축을 할 수 있습니다.<br>
-지식을 공유하며 함께 성장하고 싶은 신입 개발자입니다. <br>
+지식을 공유하며 ✨함께 성장하고 싶은✨ 신입 개발자입니다. <br>
   
 📧 **Email** <br>
  [lmu1289@gmail.com](mailto:lmu1289@gmail.com) <br>
