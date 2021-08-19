@@ -42,4 +42,7 @@ https://radial-handball-fa4.notion.site/e5da94fd7240470c98eeef743a704b2c <br>
   
   <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FLeemalgum&count_bg=%23F995FF&title_bg=%23FFBFF7&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
   
+  [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=kixa1215)](https://solved.ac/{kxia1215})
+
+  
 </div>
