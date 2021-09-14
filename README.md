@@ -7,12 +7,6 @@
 📧 **Email** <br>
  [lmu1289@gmail.com](mailto:lmu1289@gmail.com) <br>
   
-🐱 **Portfolio** <br>
-https://radial-handball-fa4.notion.site/e5da94fd7240470c98eeef743a704b2c <br>
-  
-🍀 **Naver Blog** <br>
-[https://blog.naver.com/withxia1215](https://blog.naver.com/withxia1215) <br>
-  
 💪 **Skills**
   
   <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/>
