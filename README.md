@@ -1,8 +1,6 @@
 <div align="center">
 
-## 
 ### Web **Backend-Developer**
-지식을 공유하며 ✨함께 성장하고 싶은✨ 신입 개발자입니다. <br>
   
 📧 **Email** <br>
  [lmu1289@gmail.com](mailto:lmu1289@gmail.com) <br>
@@ -15,13 +13,10 @@
   
   <img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=flat-square&logo=Amazon AWS&logoColor=white"/>
   <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=Django&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white"/> 
   <br>
   
   <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat-square&logo=Visual Studio Code&logoColor=white"/>
   <img src="https://img.shields.io/badge/IntelliJ IDEA-000000?style=flat-square&logo=IntelliJ IDEA&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Android Studio-3DDC84?style=flat-square&logo=Android Studio&logoColor=white"/>
   <br>
   <br>
   
